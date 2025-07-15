@@ -1,0 +1,31 @@
+{
+    "users":[
+        {
+            "id":"user_id_1",
+            "name":"friend",
+            "email":"friend@gmail.com",
+            "password":"password123"
+        }
+    ],
+    "dealers":[
+     {
+     "dealer_id":"dealer_id_1",
+     "name":"ramu",
+     "email":"ramu@gmail.com",
+     "password":"password123",
+     "companyname":"XYZ",
+     "mobile":6374182937,
+     "isActive":true,
+     "payment":[]
+
+     }
+    ],
+    "products":[
+        {
+         "product_id":112,
+         "product_title":"sonamosoori",
+         "price":1200,
+         "quantity":30     
+        }
+    ]
+}
